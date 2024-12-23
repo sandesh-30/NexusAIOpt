@@ -1,7 +1,7 @@
 # NexusAIOpt
 
 ## 🌟 Purpose  
-This repository is a collaborative effort to compile, implement, and share solutions to a diverse range of problems in **Operations Research (OR)**, **Mathematical Optimization**, **Supply Chain Analytics**, and **Artificial Intelligence (AI)**. By gathering algorithms, ideas, and solutions from various sources—including original work, research papers, and books—we aim to promote awareness and application of OR methods in solving real-world challenges.  
+This repository is a collaborative effort to [compile](ArticleSpace), [implement](ImplementLab), and share [solutions](ModelingHub) to a diverse range of problems in **Operations Research (OR)**, **Mathematical Optimization**, **Supply Chain Analytics**, and **Artificial Intelligence (AI)**. By gathering algorithms, ideas, and solutions from various sources—including original work, research papers, and books—we aim to promote awareness and application of OR methods in solving real-world challenges.  
 
 
 ## 🔍 What You'll Find  
